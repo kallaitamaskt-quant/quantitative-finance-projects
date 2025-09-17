@@ -4,9 +4,8 @@ This repository contains a collection of my personal projects focused on quantit
 //
 
 1. Equity Market Data Analysis
+A beginner python script that downloads historical stock price data using the yfinance library. It then calculates and visualizes metrics such as daily returns and simple moving averages to practice data manipulation and analysis techniques with pandas and matplotlib.
 
 File: market_analysis.py
 
-Description: An introductory Python script that downloads historical stock price data using the yfinance library. It then calculates and visualizes key metrics such as daily returns and simple moving averages to practice foundational data manipulation and analysis techniques with pandas and matplotlib.
-
-To Run: Ensure you have the required libraries installed (pip install yfinance pandas matplotlib) and then execute the script from your terminal: python market_analysis.py.
+To Run: Ensure you have the required libraries installed, and then execute the script from your terminal.
