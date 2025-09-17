@@ -1,4 +1,5 @@
 Quantitative Finance Projects
+
 This repository contains a collection of my personal projects focused on quantitative finance, data analysis, and algorithmic strategy, developed as part of my self-study curriculum.
 //
 
